@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/navt_1" >
+    <menu>
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/link"
+            android:title="@string/nav_1" />
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@drawable/link"
+            android:title="@string/nav_2" />
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/link"
+            android:title="@string/nav_3" />
+    </menu>
+    </item>
+    <item android:title="@string/navt_2" >
+    <menu>
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/link"
+            android:title="@string/nav_4" />
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/link"
+            android:title="@string/nav_5" />
+        <item
+            android:id="@+id/nav_6"
+            android:icon="@drawable/link"
+            android:title="@string/nav_6" />
+    </menu>
+    </item>
+    <item android:id="@+id/nav_7" android:title="@string/nav_7"></item>
+    <item android:id="@+id/nav_8" android:title="@string/nav_8"></item>
+    <item android:id="@+id/nav_9" android:title="@string/nav_9"></item>
+</menu>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TechArt Magazine</string>
+    <string name="app_shop">Shop</string>
+    <string name="url">http://techartpwani.com/</string>
+
+    <string name="navt_1">Tech</string>
+    <string name="nav_1">Blog</string>
+    <string name="url_1">http://techartpwani.com/blog</string>
+    <string name="nav_2">Reviews</string>
+    <string name="url_2">http://techartpwani.com/blog</string>
+    <string name="nav_3">Apps</string>
+    <string name="url_3">http://techartpwani.com/blog</string>
+    <string name="nav_4">Start Ups</string>
+    <string name="url_4">http://techartpwani.com/blog</string>
+
+    <string name="navt_2">Art</string>
+    <string name="nav_5">Interviews</string>
+    <string name="url_5">http://techartpwani.com/blog</string>
+    <string name="nav_6">Events</string>
+    <string name="url_6">http://techartpwani.com/blog</string>
+    <string name="nav_7">Downloads</string>
+    <string name="url_7">http://techartpwani.com/blog</string>
+
+    <string name="nav_8">About / Contact</string>
+    <string name="url_8">http://techartpwani.com/blog</string>
+    <string name="nav_9">Opportunities</string>
+    <string name="url_9">http://techartpwani.com/blog</string>
+    
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
